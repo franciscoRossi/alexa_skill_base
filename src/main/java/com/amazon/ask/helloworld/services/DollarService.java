@@ -1,6 +1,6 @@
 package com.amazon.ask.helloworld.services;
 
-import com.amazon.ask.helloworld.api.DollarEndpoint;
+import com.amazon.ask.helloworld.api.dollar.DollarEndpoint;
 import com.amazon.ask.helloworld.model.DollarResponseBody;
 import com.fasterxml.jackson.databind.ObjectMapper;
 

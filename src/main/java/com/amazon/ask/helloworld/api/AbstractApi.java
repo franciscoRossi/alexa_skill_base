@@ -66,9 +66,5 @@ public abstract class AbstractApi {
         headers.set(h);
     }
 
-    public void executeRequest() {
-        //TODO: Change this hardcoded url
-        ServiceFactory.getHttpService().executeHttpRequest(this,
-                "http://ws.geeklab.com.ar/");
-    }
+    public abstract void executeRequest();
 }

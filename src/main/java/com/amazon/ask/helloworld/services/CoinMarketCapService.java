@@ -1,6 +1,6 @@
 package com.amazon.ask.helloworld.services;
 
-import com.amazon.ask.helloworld.api.EthereumPriceEndpoint;
+import com.amazon.ask.helloworld.api.coinmarketcap.EthereumPriceEndpoint;
 import com.amazon.ask.helloworld.model.currency_quote.CurrencyQuoteResponseBody;
 import com.fasterxml.jackson.databind.ObjectMapper;
 

@@ -1,4 +1,4 @@
-package com.amazon.ask.helloworld.api;
+package com.amazon.ask.helloworld.api.coinmarketcap;
 
 /**
  * Created by pupi on 14/10/18.
